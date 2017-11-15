@@ -1,5 +1,5 @@
-var x = document.getElementsByClassName('button');
-    for (var t	 = 0; t	 < x.length; t	++) {
-        var text = x[t].innerText;
-    alert(text);
-    }
+var songTitle = document.getElementsByClassName('button');
+for (var i = 0; i < x.length; i++) {
+var text = x[i].innerText;
+	alert(text);
+	}
